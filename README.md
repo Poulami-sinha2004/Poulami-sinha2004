@@ -17,7 +17,7 @@
 <h3 align="center">GitHub Trophies</h3>
 <div align="center">
   
-![trophy](https://github-profile-trophy.vercel.app/?Poulami-sinha2004r&theme=dark_lover&no-frame=true&no-bg=true&column=3&title=Commits,Followers,Stars)
+![trophy](https://github-profile-trophy.vercel.app/?username=Poulami-sinha2004&theme=dark_lover&no-frame=true&no-bg=true&column=3&title=Commits,Followers,Stars)
 <br>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Poulami-sinha2004&theme=dark_lover&no-frame=true&no-bg=true&column=3&title=PullRequest,Repositories,Reviews)
@@ -26,9 +26,7 @@
 <!-- github stats -->
 <h3 align="center">GitHub Stats</h3>
 <div align="center">
-    <img height="160px" width="160px" src="images/wings/left.svg" alt="left wing"> <!-- to be made responsive -->
     <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=Poulami-sinha2004&theme=windows-dark&hide_border=true" alt="streak stats">
-    <img height="160px" width="160px" src="images/wings/right.svg" alt="right wing">  <!-- to be made responsive -->
     <p></p>
     <img src="https://github-readme-stats.vercel.app/api?username=Poulami-sinha2004&show_icons=true&locale=en&theme=github_dark&hide_border=true&bg_color=000000&count_private=true" alt="github stats">
     &nbsp;&nbsp;
