@@ -47,7 +47,6 @@
 </h1>
 
 <h1>Language & Script:&nbsp;&nbsp; <!-- Language & Script -->
-
     <img src="images/languages/python.svg" height="34" alt="python" align=right>&nbsp;&nbsp;
     <img src="images/languages/java.svg" height="34" alt="JAVA" align=right>&nbsp;&nbsp;
     <img src="images/languages/cpp.svg" height="34" alt="C++" align=right>&nbsp;&nbsp;
